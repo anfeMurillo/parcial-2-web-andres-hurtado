@@ -1,4 +1,4 @@
-# vue-parcial-red-social
+# Andres Felipe Hurtado Murillo - 408218
 
 Para correrlo
 ```
